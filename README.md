@@ -6,6 +6,5 @@ Preview on Heroku:
 **Stack:**
  - Python
  - Flask
- - SQLite
  
  ![yoy](https://i.pinimg.com/originals/7d/86/8e/7d868e530bd4ffac7bed8dca9cbb8d63.gif)
